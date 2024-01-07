@@ -36,7 +36,7 @@ python email.py
 
 Enter the target URL when prompted. The script will begin processing and output any email addresses it finds.
 
-##Limitations
+## Limitations
 
 -The script is limited to scraping the first 25 URLs to avoid overloading the server. This limit can be adjusted in the script.
 Only scans URLs within the same domain as the target URL.
