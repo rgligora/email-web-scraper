@@ -24,6 +24,7 @@ First, ensure that Python 3 is installed on your system. Then, install the requi
 
 ```bash
 pip install beautifulsoup4 requests
+```
 
 ## Usage
 
@@ -31,6 +32,7 @@ Run the script from the command line:
 
 ```bash
 python email.py
+```
 
 Enter the target URL when prompted. The script will begin processing and output any email addresses it finds.
 
